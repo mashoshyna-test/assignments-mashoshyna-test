@@ -1,5 +1,5 @@
 # assignments-mashoshyna-test
 
 ```html
-<form></form>
+<form><button type="submit">SUBMIT</button></form>
 ```
